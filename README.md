@@ -1,4 +1,9 @@
 # Herramienta de monitoreo de sistema fedora con notificación en Telegram
+
+fedora-vm-tools es un conjunto de herramientas diseñadas para automatizar el mantenimiento, monitoreo y gestión básica de máquinas virtuales Fedora. Este sistema incluye scripts de actualización y limpieza, notificaciones automáticas por Telegram, un panel de monitoreo en Bash y una interfaz web local construida con Flask para visualizar el estado del sistema desde el navegador.
+
+Es ideal para usuarios, administradores o desarrolladores que quieran mantener sus entornos Fedora limpios, informados y con supervisión constante sin intervención manual.
+
 ````markdown
 # 🧰 fedora-vm-tools
 
@@ -157,7 +162,7 @@ MIT License
 ## ✍ Autor
 
 **Arturo Badilla**
-🔗 [https://github.com/tu\_usuario](https://github.com/tu_usuario)
+🔗 [https://github.com/tu\_usuario](https://github.com/ARTAA123)
 
 ```
 
