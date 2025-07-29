@@ -162,7 +162,7 @@ MIT License
 ## ✍ Autor
 
 **Arturo Badilla**
-🔗 [https://github.com/tu\_usuario](https://github.com/ARTAA123)
+🔗 [https://github.com/ARTAA123](https://github.com/ARTAA123)
 
 ```
 
