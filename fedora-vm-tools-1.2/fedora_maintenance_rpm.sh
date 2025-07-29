@@ -11,7 +11,7 @@ Release:        1%{?dist}
 Summary:        Herramientas de mantenimiento, monitoreo y panel web para Fedora VM
 
 License:        MIT
-URL:            https://github.com/tu_usuario/fedora-vm-tools
+URL:            https://github.com/ARTAA123/fedora-vm-tools
 Source0:        fedora_vm_tools.tar.gz
 
 BuildArch:      noarch
