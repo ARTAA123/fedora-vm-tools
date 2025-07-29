@@ -1,7 +1,3 @@
-Aquí tienes una documentación lista para agregar como `README.md` en tu repositorio de GitHub del proyecto `fedora-vm-tools`:
-
----
-
 ````markdown
 # 🧰 fedora-vm-tools
 
@@ -166,5 +162,4 @@ MIT License
 
 ---
 
-¿Deseas que lo agregue automáticamente en tu tarball o como archivo dentro del proyecto en Canvas?
 ```
