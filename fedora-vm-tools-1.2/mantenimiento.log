@@ -1,0 +1,33 @@
+==== 🛠️ Mantenimiento Fedora VM ====
+Fecha: lun 28 jul 21:10:47 CST 2025
+
+Nothing to do.
+Nothing to do.
+Removed 32 files, 23 directories (total of 90 MiB). 0 errors occurred.
+
+📦 Espacio utilizado en disco:
+11G	/
+8,4G	/usr
+2,0G	/var
+325M	/boot
+231M	/home
+36M	/etc
+1,7M	/run
+408K	/image
+139K	/media
+96K	/dev
+
+⚙️ Servicios innecesarios activos:
+No detectados
+
+🚨 Últimos errores críticos:
+jul 28 20:46:19 fedora (udev-worker)[613]: vboxuser: /usr/lib/udev/rules.d/60-vboxguest.rules:2 Only network interfaces can be renamed, ignoring NAME="vboxuser".
+jul 28 20:46:19 fedora kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+jul 28 20:46:19 fedora kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+jul 28 20:46:19 fedora kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+jul 28 20:46:23 fedora alsactl[869]: alsa-lib main.c:1554:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+jul 28 20:46:23 fedora alsactl[869]: alsa-lib main.c:1554:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -2
+jul 28 20:46:23 fedora alsactl[869]: /usr/sbin/alsactl: set_control:1346: failed to obtain info for control #29 (No such file or directory)
+jul 28 20:46:23 fedora kernel: vboxsf: Unknown parameter 'tag'
+jul 28 20:46:31 fedora virtqemud[1066]: No es posible abrir /dev/kvm: No existe el fichero o el directorio
+jul 28 20:46:50 fedora gdm-password][1786]: gkr-pam: unable to locate daemon control file
