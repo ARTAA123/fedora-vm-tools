@@ -1,8 +1,8 @@
 #!/bin/bash
 
 LOG_FILE="$HOME/fedora_vm_tools/mantenimiento.log"
-BOT_TOKEN="8288967647:AAFY0G6ZR8_lGgT_JljmHDhxXT7D75UB7TE"
-CHAT_ID="718371031"
+BOT_TOKEN="TU_TOKEN"
+CHAT_ID="TU_CHAT_ID"
 
 {
   echo "==== 🛠️ Mantenimiento Fedora VM ===="
